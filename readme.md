@@ -10,6 +10,12 @@
 
 3. 初始页另外一个下拉选单的选项，名为世界电影评分分析，选择选项之后不需要点其他按键即可跳转，我和我的搭档将八张可视化图表分别整合了两个页面对应两个选项动作生成后跳转的URL。我负责世界电影评分分析的内容，以及制作footer底部栏，并添加将”数据故事“添加其中。
 
+4.所含的URL
+http://chenzhouchi.pythonanywhere.com/
+http://chenzhouchi.pythonanywhere.com/table_concluding
+
+https://lephyant.gitee.io/experiment_sample/
+https://lephyant.gitee.io/experiment_sample2/
 
 二、**Readme.md文档**
 
